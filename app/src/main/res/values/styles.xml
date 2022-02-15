@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TeamName">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#616161</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="ScoreTextViews">
+        <item name="android:textSize">56sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:layout_marginBottom">24dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+    </style>
+
+    <style name="ScoreButtons">
+        <item name="android:backgroundTint">#fa8100</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginRight">24dp</item>
+        <item name="android:layout_marginLeft">24dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+
+</resources>
